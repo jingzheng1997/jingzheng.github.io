@@ -1,0 +1,21 @@
+h3 {
+	text-align: center;
+	color: purple
+}
+
+body {
+	background-image: url(http://pic1.win4000.com/wallpaper/e/57109ee6813b6.jpg);
+	background-repeat: no-repeat;
+  	background-size: cover
+}
+
+p {
+	font-style: italic;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px
+}
+
+p {
+	color: rgba(0,0,255,0.3);
+}
